@@ -1,0 +1,4 @@
+easyocr
+pip install opencv-python
+matplotlib
+numpy=1.24.1

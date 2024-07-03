@@ -1,0 +1,8 @@
+Easy OCR
+--------------
+pip install easyocr
+--------------
+
+Inference Link : https://medium.com/@nelsonizah/text-detection-in-images-with-easyocr-in-python-3e336c462c16
+Finetune Link : https://www.freecodecamp.org/news/how-to-fine-tune-easyocr-with-a-synthetic-dataset/
+
